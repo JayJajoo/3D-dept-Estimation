@@ -27,15 +27,15 @@ This project implements a vision-based 3D object detection and localization syst
 
 ## Project Structure
 
-├── Dataset/ 
-│ └── image/ # Folder for test images 
-├── depth.pth # Pre-trained MiDaS model weights (download required) 
-├── yolo.pt # Pre-trained YOLOv8 model weights (download required) 
-├── 3D_Detection.ipynb # Notebook for 3D object detection and localization 
-├── YOLO_train.ipynb # Notebook for YOLOv8 training 
-├── Depth_train.ipynb # Notebook for depth estimation model training 
-├── README.md # Project documentation 
-└── Project Report.pdf # Detailed project report
+- ├── Dataset/ 
+- │ └── image/ # Folder for test images 
+- ├── depth.pth # Pre-trained MiDaS model weights (download required) 
+- ├── yolo.pt # Pre-trained YOLOv8 model weights (download required) 
+- ├── 3D_Detection.ipynb # Notebook for 3D object detection and localization 
+- ├── YOLO_train.ipynb # Notebook for YOLOv8 training 
+- ├── Depth_train.ipynb # Notebook for depth estimation model training 
+- ├── README.md # Project documentation 
+- └── Project Report.pdf # Detailed project report
 
 
 ---
