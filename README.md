@@ -1,0 +1,4 @@
+- Put your your test Images in Dataset/images (For now it has only 1 image).
+- Download "depth.pth" and "yolo.pt" files from this drive link and place it inside the project main folder.
+- Run the 3D_detection.ipynb file. (NOTE :- Adjust file paths according to your file structure.)
+- A video will be generated with 3D coordinates of detected objects.
