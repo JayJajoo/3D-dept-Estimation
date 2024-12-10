@@ -1,5 +1,18 @@
 # 3D Object Detection and Localization Using YOLO and MiDaS for Real-Time Applications
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Project Structure](#project-structure)
+4. [Setup Instructions](#setup-instructions)
+5. [Results](#results)
+6. [Requirements](#requirements)
+7. [Authors](#authors)
+8. [Acknowledgments](#acknowledgments)
+9. [Citation](#citation)
+
+---
+
 ## Project Overview
 This project implements a vision-based 3D object detection and localization system using a single monocular camera. By integrating YOLOv8 for object detection and MiDaS for depth estimation, this system achieves real-time performance and accuracy, providing a cost-effective alternative to LiDAR-based solutions.
 
