@@ -9,7 +9,6 @@
 6. [Requirements](#requirements)
 7. [Authors](#authors)
 8. [Acknowledgments](#acknowledgments)
-9. [Citation](#citation)
 
 ---
 
@@ -82,6 +81,3 @@ This project implements a vision-based 3D object detection and localization syst
 This project was developed at Northeastern University as part of an academic initiative to explore cost-effective 3D detection using YOLO and MiDaS models.
 
 ---
-
-## Citation
-If you use this codebase, please cite the associated project report:
